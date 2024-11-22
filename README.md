@@ -7,6 +7,7 @@ Camel-Detect is a project aimed at detecting camels in various environments usin
 - **High Accuracy**: Utilizes state-of-the-art algorithms to ensure precise detection.
 - **Real-Time Processing**: Capable of processing images and videos in real-time.
 - **Scalability**: Designed to handle large datasets efficiently.
+- **Background remover** Automatically removes background for better classification
 
 ## Installation
 
