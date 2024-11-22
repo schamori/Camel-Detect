@@ -1,6 +1,11 @@
+
+
+
 # Camel-Detect
 
-Camel-Detect is a project aimed at detecting camels in various environments using advanced image processing techniques.
+Camel-Detect is a project aimed at detecting camels in various environments using advanced image processing techniques. 
+
+Uses the resnet152 to detect if there is camel in the picture. If there is a newly trained instance of the resnet152 gives this camel a score for an auction
 
 ## Features
 
